@@ -73,3 +73,10 @@ echo $11 + $20;
 	echo $10 % $8;
 
 	>?
+
+
+	<?php
+$nama_depan ="saiful";
+$nama_belakang ="bahri";
+echo $nama_depan ."". $nama_belakang;
+?>
