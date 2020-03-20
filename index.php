@@ -53,3 +53,23 @@ $nama = "saiful";
 echo "hallo,selamat datang $nama </br>";
 echo 'halle,selamat datang $nama',
 ?>
+
+
+<?php
+Operator Aritmatika
+$x = 10 ;
+$y = 20 ;
+	echo $10 + $20;
+	echo $10 - $20;
+	echo $10 * $20;
+	echo $10 / $20;
+	echo $10 % $20;
+
+
+echo $11 + $20;
+	echo $10 - $20;
+	echo $10 * $12;
+	echo $10 / $4;
+	echo $10 % $8;
+
+	>?
