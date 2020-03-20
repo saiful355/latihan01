@@ -45,4 +45,11 @@ $nama = "saiful";
 
 	</body>
 	</html>		
-	
+
+
+	<?php
+$nama = "saiful";
+
+echo "hallo,selamat datang $nama </br>";
+echo 'halle,selamat datang $nama',
+?>
