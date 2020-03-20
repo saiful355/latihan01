@@ -100,3 +100,27 @@ $y %= 2;
 echo $y "</br>";
 
 ?>
+
+<?php
+var_dump(1 < 5) ;
+	echo "</br>";
+
+var_dump(5 <= 4);
+	echo "</br>";
+
+var_dump(2 >= 6);
+	echo "</br>";
+
+var_dump(1 == 2);
+	echo "</br>";
+
+var_dump(1 != 4);
+	echo "</br>";
+
+	//oprator logika
+
+	$x = 10;
+	var_dump($x < 20 && $x % 2 == 0);
+
+
+	?>				
