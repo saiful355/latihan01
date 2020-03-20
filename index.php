@@ -80,3 +80,23 @@ $nama_depan ="saiful";
 $nama_belakang ="bahri";
 echo $nama_depan ."". $nama_belakang;
 ?>
+
+<?php
+
+$x = 10;
+$x +=2;
+echo $x "</br>";
+
+$y = 10;
+$y -=3;
+echo $y "</br>";
+
+$x = 10;
+$x /= 3;
+echo $x "</br>";
+
+$y = 10;
+$y %= 2;
+echo $y "</br>";
+
+?>
