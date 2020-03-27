@@ -5,7 +5,7 @@
      <meta charset= "UTF-8">
 
      <title>
-     	latihan perulang tabel
+     	latihan loopping tabel
      	</title>
      		</head>
      			<body>
