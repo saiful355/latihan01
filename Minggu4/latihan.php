@@ -1,14 +1,14 @@
 <?php
-  // penggulangan
-  // for
+//perulangan
+// do while
 
-  for ($i = 0; $i < 5; i++){
-  	  echo "Hello Word!  <br>";
-  }
+echo "<H2>Menggunakan perulangan Do While</H2>";
+$i = 10;
+do {
+	echo "Hello Word! <br>";
+$i++;
 
-  /* $i = 0; bagian inisialisasi / menentukan variabel
-  $1 < 5;   bagian kondisi/ untuk memberhentikan kondisi perulangan ketika berjumlah <5
 
-  i++     bagian increment (menambah) kondisi*/
+}while ($i < 5);
 
-  ?>
+#scipt ($i = 10 ) itu seharusnya $i = 1; iya itu untuk menampilkan out put lebih dari satu baris
