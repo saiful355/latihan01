@@ -1,5 +1,21 @@
 <?php
-echo date('d-m-Y', mktime(0,0,04,11,1992));
-
-echo date("l", strtotime('11, april, 2030'));
+echo date("l", strtotime('30 August 2030'));
+?> 
+function salam($waktu, $nama)
+{
+	return "Selamat $waktu, $nama!";
+}
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta  name="viewport"
+	content="with=device-width, initial-scale=1.0">
+	<title>Latihan Function</title>
+</head>
+<body>
+	<h1><?=salam("Pagi", "Saiful") ?></h1>
+</body>
+</!DOCTYPE html>
+<html> 
