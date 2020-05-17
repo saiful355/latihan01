@@ -21,7 +21,7 @@ $hewan = [
     "kelas" => "Mamalia",
     "ordo" => "Chondrichthyes",
     "makanan" => "daging",
-    "gambar" => "gajah.jpg"
+    "gambar" => "singa.jpg"
 
 ];
 ?>
